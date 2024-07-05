@@ -47,3 +47,7 @@ SIES College of Arts, Science, and Commerce: Bachelor's degree in Computer Scien
 Cycling Enthusiast: I enjoy long-distance cycling and exploring new trails.
 Trekking Adventurer: Trekking is my way of connecting with nature and challenging myself.
 
+## Interest Facts
+- Solved Rubix cube in 1.58 min
+- My typing speed is 70wpm
+
